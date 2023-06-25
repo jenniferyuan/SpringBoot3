@@ -6,9 +6,11 @@ step1. Download and unzip H2_DB.rar then put in c:/users/${user}
 step2. Check out maven project springboot3_crud and run application.   
   
 entrance: http://localhost:81/pages/books.html  
-![image](https://github.com/jenniferyuan/SpringBoot3/assets/8438937/3edb82a2-23b6-4b64-8d6f-449aa644b69c)  
+![image](https://github.com/jenniferyuan/SpringBoot3/assets/8438937/25060db7-48a8-4b59-a317-7e63a2701cab)
+
   
 DB: password:123456  
-![image](https://github.com/jenniferyuan/SpringBoot3/assets/8438937/9abb9d19-1408-4cc1-bae2-986f49f638e5)
+![image](https://github.com/jenniferyuan/SpringBoot3/assets/8438937/33e7dd18-39ee-4879-8ec8-140ec68ac6cb)
+
 
 
