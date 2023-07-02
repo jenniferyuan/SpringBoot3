@@ -1,7 +1,9 @@
 ## SpringBoot3_crud
-#### SpringBoot 3.1.0
-#### ElementUI and Vue
-#### MybatisPlus and H2 DB
+### Project Structure
+#### Framework：SpringBoot 3.1.0
+#### Front Eend：ElementUI and Vue
+#### ORM：MybatisPlus and H2 DB
+#### DB : SpringBoot Embedded H2
 step1. Download and unzip H2_DB.rar then put in c:/users/${user}  
 step2. Check out maven project springboot3_crud and run application.   
   
